@@ -1,5 +1,4 @@
-Intensidade rel. vsPosição angular, Corrida Nr10
-Posição angular ( rad )	Intensidade rel. ( % )
+PosiÃ§Ã£o_Angular(graus)	Intensidade_rel_(%)
 0,000	15,127
 0,000	15,081
 0,000	15,077
