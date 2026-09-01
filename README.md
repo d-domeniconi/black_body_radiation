@@ -271,10 +271,8 @@ A few things worth knowing before you extend this pipeline:
 **Denis Domeniconi Caprioti**
 Physics Undergraduate, Universidade Federal de Santa Catarina (UFSC)
 
-*(feel free to add your contact info / GitHub handle / course name here)*
+### Co-author:
 
-## License
-
-No license has been chosen yet. If you'd like to explicitly allow other
-students to reuse and adapt this code, consider adding an open-source
-license such as [MIT](https://choosealicense.com/licenses/mit/).
+**Lorenzo Heald**
+Physics Undergraduate, Universidade Federal de Santa Catarina (UFSC);
+lorenzo.heald@grad.ufsc.br
