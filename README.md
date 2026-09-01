@@ -19,7 +19,6 @@ analysis end-to-end for several experimental runs ("*corridas*").
 - [Theory](#theory)
   - [1. Prism spectrometer & dispersion](#1-prism-spectrometer--dispersion)
   - [2. Blackbody radiation & Planck's law](#2-blackbody-radiation--plancks-law)
-- [Repository Structure](#repository-structure)
 - [Data Format](#data-format)
 - [Analysis Pipeline](#analysis-pipeline)
 - [Installation](#installation)
@@ -28,7 +27,6 @@ analysis end-to-end for several experimental runs ("*corridas*").
 - [Notes & Suggestions for Future Students](#notes--suggestions-for-future-students)
 - [Keywords](#keywords)
 - [Author](#author)
-- [License](#license)
 
 ## Overview
 
@@ -113,21 +111,6 @@ to perform a full non-linear fit.
 > (by eye, on a log plot) rather than fitting Planck's law directly to the
 > data — see [Notes & Suggestions](#notes--suggestions-for-future-students)
 > below for a natural next step.
-
-## Repository Structure
-
-```
-.
-├── data_analysis.ipynb      # Main notebook: runs the full pipeline per run
-├── manipulation.py          # Read/clean/filter/transform functions
-├── visualization.py         # Plotting functions
-├── requirements.txt         # Python dependencies
-├── experimental_data/       # Raw run files (corrida7.txt, corrida8.txt, ...)
-└── figs/                    # Saved output figures (e.g. lei_de_plank_1.png)
-```
-
-`experimental_data/` isn't included in this repository snapshot — add your
-own run files there, following the format described below.
 
 ## Data Format
 
@@ -275,4 +258,4 @@ Physics Undergraduate, Universidade Federal de Santa Catarina (UFSC)
 
 **Lorenzo Heald**
 Physics Undergraduate, Universidade Federal de Santa Catarina (UFSC);
-lorenzo.heald@grad.ufsc.br
+<lorenzo.heald@grad.ufsc.br>
